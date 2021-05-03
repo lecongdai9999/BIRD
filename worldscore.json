@@ -1,11 +1,15 @@
 {
   "VN": { "NAME":"VN1 dragonslayer212", "SCORE":108},
   "VN": { "NAME":"VN2 new star", "SCORE":101},
+  "GB": { "NAME":"EN Power Of Evil", "SCORE":98},
   "EN": { "NAME":"EN Power Of Evil", "SCORE":98},
   "US": { "NAME":"US Gorilla", "SCORE":81},
   "FR": { "NAME":"AA Rayitos NFS", "SCORE":80},
   "RU": { "NAME":"AAA 神龙", "SCORE":67},
-  "CN": { "NAME":"AAAA Faker", "SCORE":63},
+  "CN": { "NAME":"神龙", "SCORE":63},
   "CA": { "NAME":"ACB CheesyFace", "SCORE":46},
-  "AR": { "NAME":"SS Justin Mac", "SCORE":42}
+  "AR": { "NAME":"SS Justin Mac", "SCORE":42},
+  "TH": { "NAME":"Thailand", "SCORE":42},
+  "**": { "NAME":"Pewdiepie", "SCORE":148},
+  "**": { "NAME":"神龙", "SCORE":131}
 }
