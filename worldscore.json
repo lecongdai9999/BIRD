@@ -7,7 +7,7 @@
 "IE": { "NAME":"jacksepticeye", "SCORE":151},
 "CA": { "NAME":"VanossGaming", "SCORE":129},
 "GB": { "NAME":"DanTDM", "SCORE":13`},
-"EN": { "NAME":"DanTDM", "SCORE":134},
+"UK": { "NAME":"DanTDM", "SCORE":134},
 "AR": { "NAME":"TheDonato", "SCORE":124},
 "IN": { "NAME":"Total Gaming", "SCORE":138},
 "ID": { "NAME":"Jess No Limit", "SCORE":128},
@@ -35,5 +35,5 @@
 "NZ": { "NAME":"McCreamy", "SCORE":129},
 "PE": { "NAME":"Golemcito Games", "SCORE":131},
 "CN": { "NAME":"冯提莫", "SCORE":133},
-"**": { "NAME":"Pewdiepie", "SCORE":142}
+"**": { "NAME":"Pewdiepie", "SCORE":147}
 }
