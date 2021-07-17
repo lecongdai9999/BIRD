@@ -21,7 +21,7 @@
 "TH": { "NAME":"zbing z.", "SCORE":141},
 "FI": { "NAME":"Brawl Stars", "SCORE":141},
 "SE": { "NAME":"Levinho", "SCORE":142},
-"VI": { "NAME":"Chim Sẻ Đi Nắng", "SCORE":143},
+"VN": { "NAME":"Chim Sẻ Đi Nắng", "SCORE":168},
 "JP": { "NAME":"HikakinGames", "SCORE":144},
 "KR": { "NAME":"감스트GAMST", "SCORE":145},
 "PH": { "NAME":"AKOSI DOGIE", "SCORE":146},
@@ -34,6 +34,6 @@
 "TR": { "NAME":"ام سيف", "SCORE":128},
 "NZ": { "NAME":"McCreamy", "SCORE":129},
 "PE": { "NAME":"Golemcito Games", "SCORE":131},
-"CN": { "NAME":"冯提莫", "SCORE":133},
+"CN": { "NAME":"冯提莫", "SCORE":168},
 "**": { "NAME":"Pewdiepie", "SCORE":147}
 }
