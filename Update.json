@@ -1,4 +1,4 @@
 {
-  "Android": { "Version":"1.0.5", "Date":20210108, "fGroup":"https://www.facebook.com/groups/845700202920312", "fYoutube":"https://youtu.be/R0o_5y5rO9E", "fAppLink":"https://play.google.com/store/apps/details?id=com.UFOProduction.BoombingBird", "fAppIcon":"https://play-lh.googleusercontent.com/DSfcoFEEnLh-q-cvGUH6erAjQUXPk_Eot4gq8AXs9dBoZqftor2lLYa2uiqXLfgT6w=s180"},
-  "iOS": { "Version":"1.0.8", "Date": 20210108, "fGroup":"https://www.facebook.com/groups/845700202920312", "fYoutube":"https://youtu.be/R0o_5y5rO9E", "fAppLink":"https://apps.apple.com/app/bombing-bird/id1540100230", "fAppIcon":"https://play-lh.googleusercontent.com/DSfcoFEEnLh-q-cvGUH6erAjQUXPk_Eot4gq8AXs9dBoZqftor2lLYa2uiqXLfgT6w=s180"}
+  "Android": { "Version":"1.0.5", "Date":20210108, "fGroup":"https://www.facebook.com/groups/845700202920312", "fYoutube":"https://youtu.be/R0o_5y5rO9E", "fAppLink":"https://play.google.com/store/apps/details?id=com.UFOProduction.BoombingBird", "fAppIcon":"https://raw.githubusercontent.com/lecongdai9999/BIRD/main/Icon.png"},
+  "iOS": { "Version":"1.0.9", "Date": 20210108, "fGroup":"https://www.facebook.com/groups/845700202920312", "fYoutube":"https://youtu.be/R0o_5y5rO9E", "fAppLink":"https://apps.apple.com/app/bombing-bird/id1540100230", "fAppIcon":"https://raw.githubusercontent.com/lecongdai9999/BIRD/main/Icon.png"}
 }
